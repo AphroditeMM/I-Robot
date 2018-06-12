@@ -1,3 +1,79 @@
 # 信息搜集计划
 
-在这里添加信息收集计划
+## 前言
+首先，我们的目的是分析科幻作品中的「机器人」主题。这里的科幻作品，包括但不限：科幻小说、科幻电影、科幻游戏，这是我们的信息搜集的最大边界。
+
+- 界定科幻小说（Science Fiction），了解学科诞生的源头。
+- 筛选典型的「机器人主题」作品（小说&电影）
+- 分析具体作品主题，找出规律，总结故事模型
+
+## 科幻小说是什么
+
+维基百科上对「Science Fiction」这样定义：
+>Science fiction (often shortened to Sci-Fi or SF) is a genre of speculative fiction, **typically dealing with imaginative concepts such as advanced science and technology, spaceflight, time travel, and extraterrestrial life**. Science fiction often explores **the potential consequences of scientific and other innovations**, and has been called a "literature of ideas".
+
+1. 科幻小说属于幻想系。
+2. 题材常涉及：先进科技、宇宙飞船、时间旅行、外星生命等。
+3. 主题探讨：科学概念的本质与其他创造。
+
+再来看看科幻三巨头之阿西莫夫和海因莱因怎么说？
+
+阿西莫夫：
+> Science fiction can be defined as that branch of literature which **deals with the reaction of human beings to changes in science and technology**。
+
+海因莱因：
+> a handy short definition of almost all science fiction might read: **realistic speculation about possible future events, based solidly on adequate knowledge of the real world, past and present, and on a thorough understanding of the nature and significance of the scientific method.**
+
+
+我据此推测，「机器人主题」导向：1. 借机器人反观人类自身；2. 探讨人工智能的未来。
+
+## 科幻小说的历史
+
+学界认为，科幻小说起源于神话，因为神话模糊了幻想与现实的界限。但本项目研究并不打算追溯到远古，根据科幻小说历史，我把研究时间的起点定在1818年——英国的玛丽·雪莱出版《弗兰肯斯坦》——第一部被公认的现代科幻小说。
+
+根据维基百科，科幻小说历史被划分为以下阶段：
+
+- 早期科幻小说：神话文本为主，代表作《一个真实的故事》《天方夜谭》等带有科幻元素的幻想作品。
+- 理性时代：如《新亚特兰蒂斯《格列佛游记》等代表作，这个时期人类对通往月球的旅程充满着幻想。
+- 十九世纪早期：现代科幻小说出现，代表作《弗兰肯斯坦》（1818）、《海底两万里》（1870）等。
+- 十九世纪晚期：这个时期的作品开始大量涌现时间旅游、外星人入侵、生物工程等题材，代表科幻作家是H.G.Wells，作品有《时间机器》(1895)、莫洛博士岛(1896)、隐形人(1897)和《世界大战》(1898)等。
+- 黄金时代：《神奇故事》杂志诞生，涌现大批优秀的科幻作家
+-  新浪潮时期：约在20世纪60年代、70年代，有《沙丘》、《机器人梦见电子羊》等代表作。
+- 信息革命与赛博朋克浪潮：约在二十世纪八十年代，代表作家威廉·吉布森。
+-  二十世纪末与二十一世纪初，流行科幻题材：环境问题（《发条女孩》保罗·巴奇加卢皮）、冷战之后的社会问题、纳米技术、生物技术等。
+
+## 第一步：搜集研究样本
+
+### 科幻小说/电影
+依据维基百科[科幻小说列表](https://en.wikipedia.org/wiki/List_of_science_fiction_novels)筛选出著有「机器人主题」的科幻作品。
+
+###科幻电影/电视
+依据维基百科[科幻电影](https://en.wikipedia.org/wiki/Science_fiction_film)筛选出典型的「机器人主题」科幻作品。
+
+### 科幻游戏
+从流行的科幻游戏中筛选出「机器人主题」的典型作品。
+
+#### 可用于交叉验证样本的其他途径
+
+### 国际奖项获奖作品
+从雨果奖、星云奖等获奖作品中，筛选出「机器人」主题的科幻作品分析。
+
+### 科幻作家
+依据维基百科[科幻作家列表清单](https://en.wikipedia.org/wiki/List_of_science_fiction_and_fantasy_artists)筛选出曾出版与「机器人主题」作品的科幻作家。
+
+## 第二步：确定研究样本清单
+样本清单分为三个类型：小说、电影、游戏。
+每个类型之下作品数量待定。
+
+## 第三步：分析主题
+依据样本清单，整理分析内容。
+分析内容（@待增补）：关键词、主题、故事主线、人物、科幻作家等。
+
+## 第四步：结果展示
+研究结果以以下形式展示（@待增补）
+1. 分析报告
+2. 故事模型
+3. （主题词）知识图谱
+4. ……
+
+20180611 猫柳创建 
